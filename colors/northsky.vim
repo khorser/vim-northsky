@@ -1,8 +1,11 @@
 " Vim color file, started as a fork of bluegreen and changed beyond any recognition
 " Maintainer:   Sergey Khorev <sergey.khorev@gmail.com>
-" Last Change:  $HGLastChangedDate: 2012-12-07 10:42 +0400 $
-" URL: http://www.vim.org/scripts/script.php?script_id=586
-"      http://sites.google.com/site/khorser/opensource/vim
+" Last Change:  $HGLastChangedDate$
+" Home Page:  http://www.vim.org/scripts/script.php?script_id=586
+"	      http://sites.google.com/site/khorser/opensource/vim
+"	      https://bitbucket.org/khorser/vim-northsky
+"	      https://github.com/khorser/vim-northsky
+"
 " if your text terminal supports font attributes like bold you might want
 " to set g:CtermAttrs = 1 for better results
 
